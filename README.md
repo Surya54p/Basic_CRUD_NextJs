@@ -28,5 +28,5 @@ Project ini cocok untuk **pemula** yang ingin belajar cara menghubungkan fronten
 
 1. **Clone repository**  
 ```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/Surya54p/Basic_CRUD_NextJs.git
+
